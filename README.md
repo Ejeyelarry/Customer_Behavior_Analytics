@@ -11,7 +11,7 @@ Through EDA and visualization, I identified spending patterns, customer segmenta
 ## 💼 Business Problem  
 Retail businesses often struggle to:  
 - Understand *_customer purchasing behavior over time_*.  
-- Identify *_high-value and repeat customers_*.  
+- Identify *_high value and repeat customers_*.  
 - Know which product categories or segments drive *_profitability_*.  
 - Develop *_marketing strategies_* that target the right customers.  
 
@@ -38,7 +38,7 @@ This project aims to solve these by analyzing customer purchase frequency, spend
  - **Technology** accounted for the highest Sales and **58.24%** of the total Profits.
  - Office Supplies generated **34%** profit despite lower sales volume.
  - Furniture had strong sales but the lowest profit **(7.72%)**, suggesting discount or pricing issues.
- - 799 total customers, with purchase frequency ranging from **1–41** orders.
+ - 795 total customers, with purchase frequency ranging from **1–41** orders.
 
 ---
 
@@ -80,6 +80,9 @@ This project aims to solve these by analyzing customer purchase frequency, spend
    - The Technology category dominates profitability, signaling it should remain a top marketing focus.
    - Furniture underperforms in profit despite high sales — requiring pricing or supply chain optimization.
    - Repeat buyers drive consistent revenue, but retention can be improved through loyalty programs.
+
+### Recomended Actions:
+   
 
 ## 🗂 Repository Structure
 Customer-Behavior-Analytics/
